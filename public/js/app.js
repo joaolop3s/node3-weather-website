@@ -1,4 +1,3 @@
-console.log("client sude js file is loaded")
 
 
 
